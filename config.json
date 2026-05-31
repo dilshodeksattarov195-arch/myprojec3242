@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdrocess",
+        "uuid": 10828280,
+        "checksum": "0e6ul"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
